@@ -27,5 +27,5 @@ fp-info-cache
 *.xml
 *.csv
 
-# Libre Office files
+# Libre Office documents
 *.odt
