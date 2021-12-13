@@ -692,7 +692,7 @@ NegEn
 Text HLabel 2120 2800 0    50   Output ~ 0
 Plus_GND
 Text HLabel 2120 2900 0    50   Output ~ 0
-No_Gain
+SingleGain
 Text HLabel 10000 4300 2    50   Output ~ 0
 CLK_EN
 Text HLabel 10000 3900 2    50   Input ~ 0
