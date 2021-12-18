@@ -214,8 +214,6 @@ MST_CLK
 Wire Wire Line
 	6600 5500 6690 5500
 Wire Wire Line
-	6500 3900 3210 3900
-Wire Wire Line
 	5800 2000 6100 2000
 Wire Wire Line
 	4900 1900 4900 1400
@@ -1114,7 +1112,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/cd4016b.pdf" H 6900 4200 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	5500 3000 3210 3000
+	5500 3000 3800 3000
 Wire Wire Line
 	5500 2400 5700 2400
 $Comp
@@ -1221,4 +1219,24 @@ Wire Wire Line
 Connection ~ 8900 2100
 Wire Wire Line
 	8900 2100 9810 2100
+Text GLabel 3630 4090 0    50   Input ~ 0
+Plus_GND
+Wire Wire Line
+	3210 3900 3800 3900
+Wire Wire Line
+	3630 4090 3800 4090
+Wire Wire Line
+	3800 4090 3800 3900
+Connection ~ 3800 3900
+Wire Wire Line
+	3800 3900 6500 3900
+Text GLabel 3630 3200 0    50   Input ~ 0
+PlusEn
+Wire Wire Line
+	3630 3200 3800 3200
+Wire Wire Line
+	3800 3200 3800 3000
+Connection ~ 3800 3000
+Wire Wire Line
+	3800 3000 3210 3000
 $EndSCHEMATC
