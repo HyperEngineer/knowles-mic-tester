@@ -2077,7 +2077,7 @@ Wire Wire Line
 Wire Wire Line
 	7490 1800 9500 1800
 Wire Wire Line
-	7490 2100 9200 2100
+	7490 2100 9500 2100
 $Comp
 L dk_Test-Points:5000 TP105
 U 1 1 61CC28C0
@@ -2366,101 +2366,101 @@ $EndComp
 $Comp
 L dk_Test-Points:5000 TP113
 U 1 1 61AABEF9
-P 8100 2900
-F 0 "TP113" H 8051 2947 50  0000 R CNN
-F 1 "5000" H 8100 2800 50  0001 C CNN
-F 2 "digikey-footprints:Test_Point_D1.02mm" H 8300 3100 60  0001 L CNN
-F 3 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 8300 3200 60  0001 L CNN
-F 4 "36-5000-ND" H 8300 3300 60  0001 L CNN "Digi-Key_PN"
-F 5 "5000" H 8300 3400 60  0001 L CNN "MPN"
-F 6 "Test and Measurement" H 8300 3500 60  0001 L CNN "Category"
-F 7 "Test Points" H 8300 3600 60  0001 L CNN "Family"
-F 8 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 8300 3700 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" H 8300 3800 60  0001 L CNN "DK_Detail_Page"
-F 10 "PC TEST POINT MINIATURE RED" H 8300 3900 60  0001 L CNN "Description"
-F 11 "Keystone Electronics" H 8300 4000 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 8300 4100 60  0001 L CNN "Status"
-	1    8100 2900
+P 8300 2900
+F 0 "TP113" H 8251 2947 50  0000 R CNN
+F 1 "5000" H 8300 2800 50  0001 C CNN
+F 2 "digikey-footprints:Test_Point_D1.02mm" H 8500 3100 60  0001 L CNN
+F 3 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 8500 3200 60  0001 L CNN
+F 4 "36-5000-ND" H 8500 3300 60  0001 L CNN "Digi-Key_PN"
+F 5 "5000" H 8500 3400 60  0001 L CNN "MPN"
+F 6 "Test and Measurement" H 8500 3500 60  0001 L CNN "Category"
+F 7 "Test Points" H 8500 3600 60  0001 L CNN "Family"
+F 8 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 8500 3700 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" H 8500 3800 60  0001 L CNN "DK_Detail_Page"
+F 10 "PC TEST POINT MINIATURE RED" H 8500 3900 60  0001 L CNN "Description"
+F 11 "Keystone Electronics" H 8500 4000 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 8500 4100 60  0001 L CNN "Status"
+	1    8300 2900
 	1    0    0    1   
 $EndComp
 $Comp
 L dk_Test-Points:5000 TP114
 U 1 1 61AAD32E
-P 8400 2900
-F 0 "TP114" H 8351 2947 50  0000 R CNN
-F 1 "5000" H 8400 2800 50  0001 C CNN
-F 2 "digikey-footprints:Test_Point_D1.02mm" H 8600 3100 60  0001 L CNN
-F 3 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 8600 3200 60  0001 L CNN
-F 4 "36-5000-ND" H 8600 3300 60  0001 L CNN "Digi-Key_PN"
-F 5 "5000" H 8600 3400 60  0001 L CNN "MPN"
-F 6 "Test and Measurement" H 8600 3500 60  0001 L CNN "Category"
-F 7 "Test Points" H 8600 3600 60  0001 L CNN "Family"
-F 8 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 8600 3700 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" H 8600 3800 60  0001 L CNN "DK_Detail_Page"
-F 10 "PC TEST POINT MINIATURE RED" H 8600 3900 60  0001 L CNN "Description"
-F 11 "Keystone Electronics" H 8600 4000 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 8600 4100 60  0001 L CNN "Status"
-	1    8400 2900
+P 8600 2900
+F 0 "TP114" H 8551 2947 50  0000 R CNN
+F 1 "5000" H 8600 2800 50  0001 C CNN
+F 2 "digikey-footprints:Test_Point_D1.02mm" H 8800 3100 60  0001 L CNN
+F 3 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 8800 3200 60  0001 L CNN
+F 4 "36-5000-ND" H 8800 3300 60  0001 L CNN "Digi-Key_PN"
+F 5 "5000" H 8800 3400 60  0001 L CNN "MPN"
+F 6 "Test and Measurement" H 8800 3500 60  0001 L CNN "Category"
+F 7 "Test Points" H 8800 3600 60  0001 L CNN "Family"
+F 8 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 8800 3700 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" H 8800 3800 60  0001 L CNN "DK_Detail_Page"
+F 10 "PC TEST POINT MINIATURE RED" H 8800 3900 60  0001 L CNN "Description"
+F 11 "Keystone Electronics" H 8800 4000 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 8800 4100 60  0001 L CNN "Status"
+	1    8600 2900
 	1    0    0    1   
 $EndComp
 $Comp
 L dk_Test-Points:5000 TP115
 U 1 1 61AADC87
-P 8700 2900
-F 0 "TP115" H 8651 2947 50  0000 R CNN
-F 1 "5000" H 8700 2800 50  0001 C CNN
-F 2 "digikey-footprints:Test_Point_D1.02mm" H 8900 3100 60  0001 L CNN
-F 3 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 8900 3200 60  0001 L CNN
-F 4 "36-5000-ND" H 8900 3300 60  0001 L CNN "Digi-Key_PN"
-F 5 "5000" H 8900 3400 60  0001 L CNN "MPN"
-F 6 "Test and Measurement" H 8900 3500 60  0001 L CNN "Category"
-F 7 "Test Points" H 8900 3600 60  0001 L CNN "Family"
-F 8 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 8900 3700 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" H 8900 3800 60  0001 L CNN "DK_Detail_Page"
-F 10 "PC TEST POINT MINIATURE RED" H 8900 3900 60  0001 L CNN "Description"
-F 11 "Keystone Electronics" H 8900 4000 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 8900 4100 60  0001 L CNN "Status"
-	1    8700 2900
+P 8900 2900
+F 0 "TP115" H 8851 2947 50  0000 R CNN
+F 1 "5000" H 8900 2800 50  0001 C CNN
+F 2 "digikey-footprints:Test_Point_D1.02mm" H 9100 3100 60  0001 L CNN
+F 3 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 9100 3200 60  0001 L CNN
+F 4 "36-5000-ND" H 9100 3300 60  0001 L CNN "Digi-Key_PN"
+F 5 "5000" H 9100 3400 60  0001 L CNN "MPN"
+F 6 "Test and Measurement" H 9100 3500 60  0001 L CNN "Category"
+F 7 "Test Points" H 9100 3600 60  0001 L CNN "Family"
+F 8 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 9100 3700 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" H 9100 3800 60  0001 L CNN "DK_Detail_Page"
+F 10 "PC TEST POINT MINIATURE RED" H 9100 3900 60  0001 L CNN "Description"
+F 11 "Keystone Electronics" H 9100 4000 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 9100 4100 60  0001 L CNN "Status"
+	1    8900 2900
 	1    0    0    1   
 $EndComp
 $Comp
 L dk_Test-Points:5000 TP116
 U 1 1 61AB15A7
-P 9000 2900
-F 0 "TP116" H 8951 2947 50  0000 R CNN
-F 1 "5000" H 9000 2800 50  0001 C CNN
-F 2 "digikey-footprints:Test_Point_D1.02mm" H 9200 3100 60  0001 L CNN
-F 3 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 9200 3200 60  0001 L CNN
-F 4 "36-5000-ND" H 9200 3300 60  0001 L CNN "Digi-Key_PN"
-F 5 "5000" H 9200 3400 60  0001 L CNN "MPN"
-F 6 "Test and Measurement" H 9200 3500 60  0001 L CNN "Category"
-F 7 "Test Points" H 9200 3600 60  0001 L CNN "Family"
-F 8 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 9200 3700 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" H 9200 3800 60  0001 L CNN "DK_Detail_Page"
-F 10 "PC TEST POINT MINIATURE RED" H 9200 3900 60  0001 L CNN "Description"
-F 11 "Keystone Electronics" H 9200 4000 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 9200 4100 60  0001 L CNN "Status"
-	1    9000 2900
+P 9200 2900
+F 0 "TP116" H 9151 2947 50  0000 R CNN
+F 1 "5000" H 9200 2800 50  0001 C CNN
+F 2 "digikey-footprints:Test_Point_D1.02mm" H 9400 3100 60  0001 L CNN
+F 3 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 9400 3200 60  0001 L CNN
+F 4 "36-5000-ND" H 9400 3300 60  0001 L CNN "Digi-Key_PN"
+F 5 "5000" H 9400 3400 60  0001 L CNN "MPN"
+F 6 "Test and Measurement" H 9400 3500 60  0001 L CNN "Category"
+F 7 "Test Points" H 9400 3600 60  0001 L CNN "Family"
+F 8 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 9400 3700 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" H 9400 3800 60  0001 L CNN "DK_Detail_Page"
+F 10 "PC TEST POINT MINIATURE RED" H 9400 3900 60  0001 L CNN "Description"
+F 11 "Keystone Electronics" H 9400 4000 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 9400 4100 60  0001 L CNN "Status"
+	1    9200 2900
 	1    0    0    1   
 $EndComp
 $Comp
 L dk_Test-Points:5000 TP117
 U 1 1 61AB204E
-P 9300 2900
-F 0 "TP117" H 9251 2947 50  0000 R CNN
-F 1 "5000" H 9300 2800 50  0001 C CNN
-F 2 "digikey-footprints:Test_Point_D1.02mm" H 9500 3100 60  0001 L CNN
-F 3 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 9500 3200 60  0001 L CNN
-F 4 "36-5000-ND" H 9500 3300 60  0001 L CNN "Digi-Key_PN"
-F 5 "5000" H 9500 3400 60  0001 L CNN "MPN"
-F 6 "Test and Measurement" H 9500 3500 60  0001 L CNN "Category"
-F 7 "Test Points" H 9500 3600 60  0001 L CNN "Family"
-F 8 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 9500 3700 60  0001 L CNN "DK_Datasheet_Link"
-F 9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" H 9500 3800 60  0001 L CNN "DK_Detail_Page"
-F 10 "PC TEST POINT MINIATURE RED" H 9500 3900 60  0001 L CNN "Description"
-F 11 "Keystone Electronics" H 9500 4000 60  0001 L CNN "Manufacturer"
-F 12 "Active" H 9500 4100 60  0001 L CNN "Status"
-	1    9300 2900
+P 9500 2900
+F 0 "TP117" H 9451 2947 50  0000 R CNN
+F 1 "5000" H 9500 2800 50  0001 C CNN
+F 2 "digikey-footprints:Test_Point_D1.02mm" H 9700 3100 60  0001 L CNN
+F 3 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 9700 3200 60  0001 L CNN
+F 4 "36-5000-ND" H 9700 3300 60  0001 L CNN "Digi-Key_PN"
+F 5 "5000" H 9700 3400 60  0001 L CNN "MPN"
+F 6 "Test and Measurement" H 9700 3500 60  0001 L CNN "Category"
+F 7 "Test Points" H 9700 3600 60  0001 L CNN "Family"
+F 8 "http://www.keyelco.com/product-pdf.cfm?p=1309" H 9700 3700 60  0001 L CNN "DK_Datasheet_Link"
+F 9 "/product-detail/en/keystone-electronics/5000/36-5000-ND/255326" H 9700 3800 60  0001 L CNN "DK_Detail_Page"
+F 10 "PC TEST POINT MINIATURE RED" H 9700 3900 60  0001 L CNN "Description"
+F 11 "Keystone Electronics" H 9700 4000 60  0001 L CNN "Manufacturer"
+F 12 "Active" H 9700 4100 60  0001 L CNN "Status"
+	1    9500 2900
 	1    0    0    1   
 $EndComp
 $Comp
@@ -2479,14 +2479,14 @@ $EndComp
 $Comp
 L power:GNDREF #PWR0106
 U 1 1 61AB40AB
-P 9500 3200
+P 9700 3200
 AR Path="/61AB40AB" Ref="#PWR0106"  Part="1" 
 AR Path="/60E235BF/61AB40AB" Ref="#PWR?"  Part="1" 
-F 0 "#PWR0106" H 9500 2950 50  0001 C CNN
-F 1 "GNDREF" H 9505 3027 50  0001 C CNN
-F 2 "" H 9500 3200 50  0001 C CNN
-F 3 "" H 9500 3200 50  0001 C CNN
-	1    9500 3200
+F 0 "#PWR0106" H 9700 2950 50  0001 C CNN
+F 1 "GNDREF" H 9705 3027 50  0001 C CNN
+F 2 "" H 9700 3200 50  0001 C CNN
+F 3 "" H 9700 3200 50  0001 C CNN
+	1    9700 3200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
@@ -2521,31 +2521,31 @@ Connection ~ 9500 2600
 Wire Wire Line
 	9500 2600 9800 2600
 Wire Wire Line
-	8100 3000 8100 3100
+	8300 3000 8300 3100
 Wire Wire Line
-	8100 3100 8400 3100
+	8300 3100 8600 3100
 Wire Wire Line
-	9500 3100 9500 3200
+	9700 3100 9700 3200
 Wire Wire Line
-	8400 3000 8400 3100
-Connection ~ 8400 3100
+	8600 3000 8600 3100
+Connection ~ 8600 3100
 Wire Wire Line
-	8400 3100 8700 3100
+	8600 3100 8900 3100
 Wire Wire Line
-	8700 3000 8700 3100
-Connection ~ 8700 3100
+	8900 3000 8900 3100
+Connection ~ 8900 3100
 Wire Wire Line
-	8700 3100 9000 3100
+	8900 3100 9200 3100
 Wire Wire Line
-	9000 3000 9000 3100
-Connection ~ 9000 3100
+	9200 3000 9200 3100
+Connection ~ 9200 3100
 Wire Wire Line
-	9000 3100 9300 3100
+	9200 3100 9500 3100
 Wire Wire Line
-	9300 3000 9300 3100
-Connection ~ 9300 3100
+	9500 3000 9500 3100
+Connection ~ 9500 3100
 Wire Wire Line
-	9300 3100 9500 3100
+	9500 3100 9700 3100
 Wire Wire Line
 	2400 1200 2400 2500
 Connection ~ 10400 5200
