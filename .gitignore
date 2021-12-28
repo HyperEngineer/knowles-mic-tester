@@ -29,3 +29,7 @@ fp-info-cache
 
 # Libre Office documents
 *.odt
+
+# library sent to Vito
+# his email will not accept *.lib files
+*.vito
